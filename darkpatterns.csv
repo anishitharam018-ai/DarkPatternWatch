@@ -1,0 +1,401 @@
+text,label
+Only 3 left in stock!,false_urgency
+Hurry! Sale ends in 10 minutes!,false_urgency
+Only 1 item left at this price!,false_urgency
+Limited time offer - ends tonight!,false_urgency
+Flash sale! Only 2 hours remaining!,false_urgency
+Just 5 seats left - book now!,false_urgency
+Selling fast! Only 4 remaining!,false_urgency
+Order in the next 30 minutes to get this deal!,false_urgency
+Stock running low - grab yours now!,false_urgency
+This offer expires in 15 minutes!,false_urgency
+"No thanks, I don't want to save money.",confirmshaming
+"No thanks, I hate good deals.",confirmshaming
+I don't want free shipping.,confirmshaming
+"No thanks, I prefer paying full price.",confirmshaming
+"I'll pass, I don't care about my health.",confirmshaming
+"No thanks, I don't want to grow my business.",confirmshaming
+I don't need more followers.,confirmshaming
+"No thanks, I enjoy missing out.",confirmshaming
+"I'll skip, success isn't for me.",confirmshaming
+"No thanks, I don't want to be smarter.",confirmshaming
+Service fee added at checkout.,hidden_costs
+Taxes and fees calculated at the end.,hidden_costs
+Processing fee: $4.99,hidden_costs
+Booking fee applied at final step.,hidden_costs
+Additional charges may apply.,hidden_costs
+Resort fee not included in price shown.,hidden_costs
+Shipping cost revealed at checkout.,hidden_costs
+Final price includes mandatory handling fee.,hidden_costs
+Small convenience fee added at payment.,hidden_costs
+Price shown excludes applicable taxes.,hidden_costs
+Uncheck this box if you do not want to not receive emails.,trick_questions
+Check here to opt out of not receiving offers.,trick_questions
+Leave unchecked if you don't want to unsubscribe.,trick_questions
+Tick this box to avoid not getting promotional updates.,trick_questions
+Check to opt out of receiving partner offers.,trick_questions
+Uncheck if you wish to not be removed from our list.,trick_questions
+Check this box if you do not want emails.,trick_questions
+Leave blank to continue receiving special offers.,trick_questions
+Deselect to stop not getting notifications.,trick_questions
+Check here to disable promotional preferences.,trick_questions
+Sign up in one click!,roach_motel
+Cancellation requires calling our support line.,roach_motel
+"To cancel, mail a written request to our office.",roach_motel
+"Easy to join, call us to leave.",roach_motel
+Unsubscribe by sending a letter to our headquarters.,roach_motel
+Account deletion takes 30 business days.,roach_motel
+"To close your account, visit our office in person.",roach_motel
+Cancellation only available by phone during business hours.,roach_motel
+You can sign up online but must cancel in writing.,roach_motel
+Membership cancellation requires 60 days notice.,roach_motel
+Free returns within 30 days.,not_dark_pattern
+No hidden fees. Price shown is final.,not_dark_pattern
+Cancel your subscription anytime online.,not_dark_pattern
+We will never share your data with third parties.,not_dark_pattern
+Transparent pricing - no surprises at checkout.,not_dark_pattern
+Easy one-click cancellation available.,not_dark_pattern
+Your privacy is our priority.,not_dark_pattern
+Full refund guaranteed within 7 days.,not_dark_pattern
+No subscription required.,not_dark_pattern
+Opt in to emails only if you want to.,not_dark_pattern
+Only 2 spots remaining!,false_urgency
+Deal expires at midnight!,false_urgency
+Last chance to grab this offer!,false_urgency
+Trending now - almost sold out!,false_urgency
+Buy now before price goes up!,false_urgency
+Timer running out on your cart!,false_urgency
+Price increases in 1 hour!,false_urgency
+Only today - never again at this price!,false_urgency
+"Demand is high, only 3 units left!",false_urgency
+Your reservation expires in 5 minutes!,false_urgency
+Act fast - offer not guaranteed tomorrow!,false_urgency
+Quantities extremely limited!,false_urgency
+Sale ends Sunday - don't miss out!,false_urgency
+Clock is ticking on this exclusive deal!,false_urgency
+Final hours of our biggest sale!,false_urgency
+"No thanks, I don't want to lose weight.",confirmshaming
+"I'll pass, I don't value my time.",confirmshaming
+"No thanks, I'm fine being broke.",confirmshaming
+I don't want to learn new skills.,confirmshaming
+"No thanks, mediocrity is fine for me.",confirmshaming
+"I'll skip, I don't care about savings.",confirmshaming
+"No thanks, I don't want to be healthy.",confirmshaming
+I don't want exclusive access.,confirmshaming
+"No thanks, I prefer staying behind.",confirmshaming
+"I'll decline, I don't want to succeed.",confirmshaming
+"No thanks, I enjoy paying more.",confirmshaming
+I don't want to protect my family.,confirmshaming
+"No thanks, I don't need more income.",confirmshaming
+"I'll pass, risks don't concern me.",confirmshaming
+"No thanks, ignorance is bliss for me.",confirmshaming
+Insurance fee added automatically.,hidden_costs
+Platform fee of $2.99 at checkout.,hidden_costs
+Carbon offset charge added to total.,hidden_costs
+Delivery surcharge applies to your area.,hidden_costs
+Weekend rate not reflected in listed price.,hidden_costs
+Fuel surcharge included at final step.,hidden_costs
+Mandatory gratuity added at payment.,hidden_costs
+Currency conversion fee may apply.,hidden_costs
+Administration fee added at checkout.,hidden_costs
+Packaging fee not shown in base price.,hidden_costs
+Price excludes local taxes.,hidden_costs
+Maintenance fee billed separately.,hidden_costs
+Technology fee applied at booking.,hidden_costs
+Cleaning fee revealed at final checkout.,hidden_costs
+Destination fee not included in rate.,hidden_costs
+Please uncheck if you prefer not to not get updates.,trick_questions
+Tick to remove yourself from not receiving offers.,trick_questions
+Check this if you don't want to opt out.,trick_questions
+Leave checked to stop not getting deals.,trick_questions
+Uncheck to not disable marketing emails.,trick_questions
+Select to prevent not receiving newsletters.,trick_questions
+Deselect this to not unsubscribe from alerts.,trick_questions
+Check here if you do not want to avoid offers.,trick_questions
+Tick box to not remove your preferences.,trick_questions
+Leave blank if you don't want to not stay subscribed.,trick_questions
+Check to not opt out of partner emails.,trick_questions
+Unselect to avoid not being notified.,trick_questions
+Tick if you do not wish to not be contacted.,trick_questions
+Check to disable not receiving promotions.,trick_questions
+Deselect to not remove from mailing list.,trick_questions
+"Join instantly, cancellation requires written notice.",roach_motel
+"Subscribe in seconds, cancel by fax only.",roach_motel
+"One-tap signup, 30-day cancellation process.",roach_motel
+"Quick registration, account removal takes 45 days.",roach_motel
+"Start free trial instantly, cancellation by post only.",roach_motel
+"Sign up online, cancel only via certified mail.",roach_motel
+"Instant access, termination requires manager approval.",roach_motel
+"Create account in 10 seconds, deletion needs ID verification.",roach_motel
+"Easy enrollment, exit process takes multiple steps.",roach_motel
+"One-click join, unsubscribe form buried in settings.",roach_motel
+"Fast signup, cancellation link hidden in footer.",roach_motel
+"Register instantly, account closure takes 90 days.",roach_motel
+"Join for free, leaving requires phone verification.",roach_motel
+"Quick start, cancellation only on desktop not mobile.",roach_motel
+"Seamless onboarding, offboarding deliberately complex.",roach_motel
+Unsubscribe anytime with one click.,not_dark_pattern
+We show you the full price upfront.,not_dark_pattern
+No credit card required for free trial.,not_dark_pattern
+Delete your account instantly from settings.,not_dark_pattern
+All fees shown before you confirm.,not_dark_pattern
+You can export your data anytime.,not_dark_pattern
+No auto-renewal without your permission.,not_dark_pattern
+Opt out of marketing emails easily.,not_dark_pattern
+We remind you before your trial ends.,not_dark_pattern
+Cancel subscription in two clicks.,not_dark_pattern
+Price you see is the price you pay.,not_dark_pattern
+No hidden charges ever.,not_dark_pattern
+Your data is never sold to advertisers.,not_dark_pattern
+"Simple, honest checkout process.",not_dark_pattern
+Account settings are clear and easy to find.,not_dark_pattern
+Only 1 ticket left at this price!,false_urgency
+Offer valid for next 20 minutes only!,false_urgency
+3 people are viewing this right now!,false_urgency
+Price jumps in 2 hours!,false_urgency
+Grab it before it's gone!,false_urgency
+Today only - 50% off ends at midnight!,false_urgency
+High demand! Only 2 rooms left!,false_urgency
+Your deal expires soon!,false_urgency
+Almost gone - only 1 left!,false_urgency
+"Hurry, this price won't last!",false_urgency
+5 others are looking at this item!,false_urgency
+Exclusive deal expires in 45 minutes!,false_urgency
+Don't wait - stock is running out fast!,false_urgency
+This is your last chance to save!,false_urgency
+Countdown to end of sale started!,false_urgency
+Only a few units left in warehouse!,false_urgency
+Offer disappears when timer hits zero!,false_urgency
+Rush! Others are buying this right now!,false_urgency
+Secure your order before stock runs out!,false_urgency
+Deal locks in 10 minutes!,false_urgency
+"No thanks, I love paying full price.",confirmshaming
+"I'll skip, being average suits me.",confirmshaming
+"No thanks, I don't want to be productive.",confirmshaming
+"I'll pass, wasting money is fine.",confirmshaming
+"No thanks, I don't mind missing deals.",confirmshaming
+I don't want a better life.,confirmshaming
+"No thanks, staying uninformed works for me.",confirmshaming
+"I'll decline, losing is acceptable.",confirmshaming
+"No thanks, struggling financially is okay.",confirmshaming
+I prefer not to improve myself.,confirmshaming
+"No thanks, I don't want to grow.",confirmshaming
+"I'll pass, being last is fine with me.",confirmshaming
+"No thanks, poor health doesn't bother me.",confirmshaming
+I don't want to reach my goals.,confirmshaming
+"No thanks, my family's safety isn't a priority.",confirmshaming
+"I'll skip, missing out is my thing.",confirmshaming
+"No thanks, I enjoy being stressed.",confirmshaming
+"I'll pass, failure doesn't concern me.",confirmshaming
+"No thanks, being broke is a lifestyle.",confirmshaming
+I don't need happiness or success.,confirmshaming
+Baggage fee added at final step.,hidden_costs
+Environmental levy included at checkout.,hidden_costs
+Priority fee applied automatically.,hidden_costs
+Service charge not shown in listing price.,hidden_costs
+Activation fee billed on first invoice.,hidden_costs
+Seat selection fee added at payment.,hidden_costs
+Late checkout fee not in original rate.,hidden_costs
+Regulatory recovery fee at checkout.,hidden_costs
+Amenity fee revealed at final booking.,hidden_costs
+Price displayed excludes GST.,hidden_costs
+Transaction fee of 3% at checkout.,hidden_costs
+Cancellation protection added automatically.,hidden_costs
+Premium support fee included at billing.,hidden_costs
+Network access charge at final step.,hidden_costs
+Digital delivery fee not in base price.,hidden_costs
+Mandatory tip added to restaurant bill.,hidden_costs
+Small order fee applied at checkout.,hidden_costs
+Route fee revealed only at payment screen.,hidden_costs
+Setup fee billed after signup.,hidden_costs
+Infrastructure surcharge added at end.,hidden_costs
+Uncheck to not disable your free alerts.,trick_questions
+Check here if you don't want to avoid deals.,trick_questions
+Leave unchecked to not remove preferences.,trick_questions
+Tick to prevent not getting notifications.,trick_questions
+Deselect to not unsubscribe from updates.,trick_questions
+Check this to not opt out of newsletters.,trick_questions
+Unselect to avoid not being informed.,trick_questions
+Tick box if you do not wish to not hear from us.,trick_questions
+Check to not stop receiving partner news.,trick_questions
+Leave blank to not cancel your preferences.,trick_questions
+Uncheck if you do not want to not get alerts.,trick_questions
+Select to disable not receiving our emails.,trick_questions
+Tick to not remove yourself from the list.,trick_questions
+Check here to not opt out of promotions.,trick_questions
+Deselect to not unsubscribe from reminders.,trick_questions
+Uncheck to prevent not getting special offers.,trick_questions
+Leave checked if you don't want to not stay subscribed.,trick_questions
+Check to avoid not receiving weekly updates.,trick_questions
+Tick if you do not want to not be notified.,trick_questions
+Unselect to not remove from contact list.,trick_questions
+"Register free, cancellation requires notarized letter.",roach_motel
+"Instant join, account removal needs legal request.",roach_motel
+"One-click signup, cancellation form only by mail.",roach_motel
+"Easy start, leaving requires supervisor approval.",roach_motel
+"Free to join, exit process takes 60 days.",roach_motel
+"Quick access, deletion buried under 7 menus.",roach_motel
+"Start today, cancellation only via written request.",roach_motel
+"Sign up instantly, unsubscribe link expires daily.",roach_motel
+"Create profile in seconds, removal takes weeks.",roach_motel
+"Join free, leaving requires identity verification.",roach_motel
+"Signup in one tap, cancellation needs phone call.",roach_motel
+"Fast registration, account closure form hard to find.",roach_motel
+"Instant membership, exit only during business hours.",roach_motel
+"Easy onboarding, offboarding requires multiple steps.",roach_motel
+"One step to join, ten steps to leave.",roach_motel
+"Free trial starts now, cancellation by fax only.",roach_motel
+"Subscribe instantly, unsubscribe requires manager call.",roach_motel
+"Quick signup, account termination takes 90 days.",roach_motel
+"Join today, cancellation restricted to weekdays.",roach_motel
+"Seamless entry, deliberate exit barriers in place.",roach_motel
+"You can cancel your plan anytime, no questions asked.",not_dark_pattern
+All pricing is transparent with no surprise fees.,not_dark_pattern
+We will email you before renewing your subscription.,not_dark_pattern
+Download your data in one click anytime.,not_dark_pattern
+"No commitment required, cancel whenever you want.",not_dark_pattern
+We never share your personal information.,not_dark_pattern
+Full refund available within 14 days of purchase.,not_dark_pattern
+Unsubscribe from all emails with one click.,not_dark_pattern
+You choose what notifications you receive.,not_dark_pattern
+No credit card needed to start your free trial.,not_dark_pattern
+Delete your account permanently from your profile page.,not_dark_pattern
+The price shown includes all taxes and fees.,not_dark_pattern
+We remind you 7 days before your trial expires.,not_dark_pattern
+Opt in to marketing emails only if you choose.,not_dark_pattern
+Your subscription renews only with your confirmation.,not_dark_pattern
+Clear and simple privacy settings available.,not_dark_pattern
+No automatic upsells during checkout.,not_dark_pattern
+We make cancellation as easy as signup.,not_dark_pattern
+All terms and conditions written in plain language.,not_dark_pattern
+You are always in control of your data.,not_dark_pattern
+Only 1 ticket left at this price!,false_urgency
+Offer valid for next 20 minutes only!,false_urgency
+3 people are viewing this right now!,false_urgency
+Price jumps in 2 hours!,false_urgency
+Grab it before it's gone!,false_urgency
+Today only - 50% off ends at midnight!,false_urgency
+High demand! Only 2 rooms left!,false_urgency
+Your deal expires soon!,false_urgency
+Almost gone - only 1 left!,false_urgency
+"Hurry, this price won't last!",false_urgency
+5 others are looking at this item!,false_urgency
+Exclusive deal expires in 45 minutes!,false_urgency
+Don't wait - stock is running out fast!,false_urgency
+This is your last chance to save!,false_urgency
+Countdown to end of sale started!,false_urgency
+Only a few units left in warehouse!,false_urgency
+Offer disappears when timer hits zero!,false_urgency
+Rush! Others are buying this right now!,false_urgency
+Secure your order before stock runs out!,false_urgency
+Deal locks in 10 minutes!,false_urgency
+"No thanks, I love paying full price.",confirmshaming
+"I'll skip, being average suits me.",confirmshaming
+"No thanks, I don't want to be productive.",confirmshaming
+"I'll pass, wasting money is fine.",confirmshaming
+"No thanks, I don't mind missing deals.",confirmshaming
+I don't want a better life.,confirmshaming
+"No thanks, staying uninformed works for me.",confirmshaming
+"I'll decline, losing is acceptable.",confirmshaming
+"No thanks, struggling financially is okay.",confirmshaming
+I prefer not to improve myself.,confirmshaming
+"No thanks, I don't want to grow.",confirmshaming
+"I'll pass, being last is fine with me.",confirmshaming
+"No thanks, poor health doesn't bother me.",confirmshaming
+I don't want to reach my goals.,confirmshaming
+"No thanks, my family's safety isn't a priority.",confirmshaming
+"I'll skip, missing out is my thing.",confirmshaming
+"No thanks, I enjoy being stressed.",confirmshaming
+"I'll pass, failure doesn't concern me.",confirmshaming
+"No thanks, being broke is a lifestyle.",confirmshaming
+I don't need happiness or success.,confirmshaming
+Baggage fee added at final step.,hidden_costs
+Environmental levy included at checkout.,hidden_costs
+Priority fee applied automatically.,hidden_costs
+Service charge not shown in listing price.,hidden_costs
+Activation fee billed on first invoice.,hidden_costs
+Seat selection fee added at payment.,hidden_costs
+Late checkout fee not in original rate.,hidden_costs
+Regulatory recovery fee at checkout.,hidden_costs
+Amenity fee revealed at final booking.,hidden_costs
+Price displayed excludes GST.,hidden_costs
+Transaction fee of 3% at checkout.,hidden_costs
+Cancellation protection added automatically.,hidden_costs
+Premium support fee included at billing.,hidden_costs
+Network access charge at final step.,hidden_costs
+Digital delivery fee not in base price.,hidden_costs
+Mandatory tip added to restaurant bill.,hidden_costs
+Small order fee applied at checkout.,hidden_costs
+Route fee revealed only at payment screen.,hidden_costs
+Setup fee billed after signup.,hidden_costs
+Infrastructure surcharge added at end.,hidden_costs
+Uncheck to not disable your free alerts.,trick_questions
+Check here if you don't want to avoid deals.,trick_questions
+Leave unchecked to not remove preferences.,trick_questions
+Tick to prevent not getting notifications.,trick_questions
+Deselect to not unsubscribe from updates.,trick_questions
+Check this to not opt out of newsletters.,trick_questions
+Unselect to avoid not being informed.,trick_questions
+Tick box if you do not wish to not hear from us.,trick_questions
+Check to not stop receiving partner news.,trick_questions
+Leave blank to not cancel your preferences.,trick_questions
+Uncheck if you do not want to not get alerts.,trick_questions
+Select to disable not receiving our emails.,trick_questions
+Tick to not remove yourself from the list.,trick_questions
+Check here to not opt out of promotions.,trick_questions
+Deselect to not unsubscribe from reminders.,trick_questions
+Uncheck to prevent not getting special offers.,trick_questions
+Leave checked if you don't want to not stay subscribed.,trick_questions
+Check to avoid not receiving weekly updates.,trick_questions
+Tick if you do not want to not be notified.,trick_questions
+Unselect to not remove from contact list.,trick_questions
+"Register free, cancellation requires notarized letter.",roach_motel
+"Instant join, account removal needs legal request.",roach_motel
+"One-click signup, cancellation form only by mail.",roach_motel
+"Easy start, leaving requires supervisor approval.",roach_motel
+"Free to join, exit process takes 60 days.",roach_motel
+"Quick access, deletion buried under 7 menus.",roach_motel
+"Start today, cancellation only via written request.",roach_motel
+"Sign up instantly, unsubscribe link expires daily.",roach_motel
+"Create profile in seconds, removal takes weeks.",roach_motel
+"Join free, leaving requires identity verification.",roach_motel
+"Signup in one tap, cancellation needs phone call.",roach_motel
+"Fast registration, account closure form hard to find.",roach_motel
+"Instant membership, exit only during business hours.",roach_motel
+"Easy onboarding, offboarding requires multiple steps.",roach_motel
+"One step to join, ten steps to leave.",roach_motel
+"Free trial starts now, cancellation by fax only.",roach_motel
+"Subscribe instantly, unsubscribe requires manager call.",roach_motel
+"Quick signup, account termination takes 90 days.",roach_motel
+"Join today, cancellation restricted to weekdays.",roach_motel
+"Seamless entry, deliberate exit barriers in place.",roach_motel
+"You can cancel your plan anytime, no questions asked.",not_dark_pattern
+All pricing is transparent with no surprise fees.,not_dark_pattern
+We will email you before renewing your subscription.,not_dark_pattern
+Download your data in one click anytime.,not_dark_pattern
+"No commitment required, cancel whenever you want.",not_dark_pattern
+We never share your personal information.,not_dark_pattern
+Full refund available within 14 days of purchase.,not_dark_pattern
+Unsubscribe from all emails with one click.,not_dark_pattern
+You choose what notifications you receive.,not_dark_pattern
+No credit card needed to start your free trial.,not_dark_pattern
+Delete your account permanently from your profile page.,not_dark_pattern
+The price shown includes all taxes and fees.,not_dark_pattern
+We remind you 7 days before your trial expires.,not_dark_pattern
+Opt in to marketing emails only if you choose.,not_dark_pattern
+Your subscription renews only with your confirmation.,not_dark_pattern
+Clear and simple privacy settings available.,not_dark_pattern
+No automatic upsells during checkout.,not_dark_pattern
+We make cancellation as easy as signup.,not_dark_pattern
+All terms and conditions written in plain language.,not_dark_pattern
+You are always in control of your data.,not_dark_pattern
+Only seconds left on this deal!,false_urgency
+"No thanks, I enjoy being left behind.",confirmshaming
+Convenience charge added at payment.,hidden_costs
+Check to not disable deal notifications.,trick_questions
+"Instant access, cancellation requires written appeal.",roach_motel
+"We show all costs upfront, always.",not_dark_pattern
+"Selling out fast, order immediately!",false_urgency
+"No thanks, struggling is my preference.",confirmshaming
+Handling fee revealed only at final step.,hidden_costs
+"One click to join, one click to leave.",not_dark_pattern
