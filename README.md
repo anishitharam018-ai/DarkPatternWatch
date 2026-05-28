@@ -7,6 +7,7 @@
 ![Status](https://img.shields.io/badge/Status-Live-success)
 
 > Paste any website text and instantly find out if it's manipulating you.
+> 🌐 **[Try the Live App →](https://darkpatternwatch-csgk6fe7jrxgggyhyyceqy.streamlit.app/)**
 
 ---
 
